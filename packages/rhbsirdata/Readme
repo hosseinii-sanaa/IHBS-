@@ -5,7 +5,8 @@ from 1363 to 1402 (1984–2024) – published by the Statistical Center of Iran.
 remotes::install_github(
   "hosseinii-sanaa/IHBS",
   subdir = "packages/rhbsirdata"
-)library(rhbsirdata)
+)
+library(rhbsirdata)
 
 Usage Examples
  1. Load raw expenditure data (full detail)
